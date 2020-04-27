@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/todo-context-hooks-localStorage-/static/css/main.f6cffc85.chunk.css",
-    "main.js": "/todo-context-hooks-localStorage-/static/js/main.bc96b7f5.chunk.js",
-    "main.js.map": "/todo-context-hooks-localStorage-/static/js/main.bc96b7f5.chunk.js.map",
+    "main.js": "/todo-context-hooks-localStorage-/static/js/main.424ba2aa.chunk.js",
+    "main.js.map": "/todo-context-hooks-localStorage-/static/js/main.424ba2aa.chunk.js.map",
     "runtime-main.js": "/todo-context-hooks-localStorage-/static/js/runtime-main.e1cb2581.js",
     "runtime-main.js.map": "/todo-context-hooks-localStorage-/static/js/runtime-main.e1cb2581.js.map",
     "static/js/2.d472d598.chunk.js": "/todo-context-hooks-localStorage-/static/js/2.d472d598.chunk.js",
     "static/js/2.d472d598.chunk.js.map": "/todo-context-hooks-localStorage-/static/js/2.d472d598.chunk.js.map",
     "index.html": "/todo-context-hooks-localStorage-/index.html",
-    "precache-manifest.f4de6503aaae9ce69afd9cd2c64e1d08.js": "/todo-context-hooks-localStorage-/precache-manifest.f4de6503aaae9ce69afd9cd2c64e1d08.js",
+    "precache-manifest.c78f6c58c75552d2c81a60263d7e298d.js": "/todo-context-hooks-localStorage-/precache-manifest.c78f6c58c75552d2c81a60263d7e298d.js",
     "service-worker.js": "/todo-context-hooks-localStorage-/service-worker.js",
     "static/css/main.f6cffc85.chunk.css.map": "/todo-context-hooks-localStorage-/static/css/main.f6cffc85.chunk.css.map",
     "static/js/2.d472d598.chunk.js.LICENSE.txt": "/todo-context-hooks-localStorage-/static/js/2.d472d598.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e1cb2581.js",
     "static/js/2.d472d598.chunk.js",
     "static/css/main.f6cffc85.chunk.css",
-    "static/js/main.bc96b7f5.chunk.js"
+    "static/js/main.424ba2aa.chunk.js"
   ]
 }

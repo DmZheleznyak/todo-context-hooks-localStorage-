@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2701349a88b21d986a4981685bf83eec",
+    "revision": "d7cb6a5696cecb070839dee7ca21ee11",
     "url": "/todo-context-hooks-localStorage-/index.html"
   },
   {
-    "revision": "a88f1027fe1f3d8da280",
+    "revision": "88d98088fdbcd206693a",
     "url": "/todo-context-hooks-localStorage-/static/css/main.f6cffc85.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/todo-context-hooks-localStorage-/static/js/2.d472d598.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a88f1027fe1f3d8da280",
-    "url": "/todo-context-hooks-localStorage-/static/js/main.bc96b7f5.chunk.js"
+    "revision": "88d98088fdbcd206693a",
+    "url": "/todo-context-hooks-localStorage-/static/js/main.424ba2aa.chunk.js"
   },
   {
     "revision": "d3ade79424293b2f80f3",
